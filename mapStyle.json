@@ -18,10 +18,10 @@
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "http://localhost:8888/data/v3.json"
+      "url": "https://free.tilehosting.com/data/v3.json?key=jv4qqo6iM3JhqsQdBUgs"
     }
   },
-  "glyphs": "https://free.tilehosting.com/fonts/{fontstack}/{range}.pbf",
+  "glyphs": "https://free.tilehosting.com/fonts/{fontstack}/{range}.pbf?key=jv4qqo6iM3JhqsQdBUgs",
   "layers": [
     {
       "id": "background",
